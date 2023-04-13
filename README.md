@@ -36,7 +36,7 @@ I am also a student at [UDF](https://www.udf.edu.br/), The Centro Universitário
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NeitanUA"><img src="https://github-readme-stats-pequimasid.vercel.app/api?username=NeitanUA&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true%22%20alt=%22peguimasid%27s%20GitHub%20stats" /></a>
+<a href="http://www.github.com/NeitanUA"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=NeitanUA&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true%22%20alt=%22peguimasid%27s%20GitHub%20stats" /></a>
 
 <a href="http://www.github.com/NeitanUA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NeitanUA&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
